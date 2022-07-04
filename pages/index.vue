@@ -3,7 +3,6 @@
     <Header/>
     <main>
       <div class="br-landing__carousel-container col-xs-12" data-scopeid="visitor_hp_top-entries">
-        <h1>Hello</h1>
         <div class="hz-visitor-hp__education-top-entries__title text-bold text-center">Что можно сделать на Houzz
         </div>
         <div class="hz-visitor-hp__education-top-entries">
